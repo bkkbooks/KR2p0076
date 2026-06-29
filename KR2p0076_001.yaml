@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR2p0076/tls/v1/juan/1
+seq: 1
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 葉公子高之子見於令尹子春子春謂之曰君王窮亡人命吾為楚邦恐不能以辱斧鑕先大夫之諷誡命亦可以告我答曰僕既得辱視日之廷命求言以答雖剝裂於斧鑕命勿之敢違如以僕之觀視日也十又三亡僕令尹曰先大夫嗣令尹受司馬治楚邦之政黔首萬民莫不欣喜四海之內莫弗聞信子謂陽為賢於先大夫請問其故答曰亡僕之掌楚邦之政坐友五人立友七人君王之所以命與所為於楚邦必內偶叩之於十又三皆亡留謬而行之今視日為楚令尹坐友亡一人立友亡一人而邦政不敗僕以此謂視日十又三亡僕
+  hash: sha256:faf504c87510e2363eb93ad4e1b68150be5cf5debd9181c5195328f7bb016cfc
+metadata:
+  title: 楚竹書
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR2p0076.xml
+hash: sha256:c695ac5b1f44ae51b8cd8af383792450e3b45d5a821c26c5ec0927edffbd3d93
